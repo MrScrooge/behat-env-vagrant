@@ -1,0 +1,1 @@
+# behat-env-vagrant
